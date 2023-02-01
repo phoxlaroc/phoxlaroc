@@ -1,0 +1,60 @@
+html {
+        background-image: url(/home/phoxlaroc/Desktop/my-webpage/B&W.jpg)
+        
+}
+
+ body { 
+        width: 600px;
+        margin: 250px auto;
+        background-color: #0f0e0e;
+        padding: 0 20px 20px 20px;
+        border: 5px solid rgb(255, 0, 0)
+ }
+
+ img {
+        display: block;
+        margin: 30px auto;
+        
+ }
+      
+ p, /* paragraph */
+ ul, /* unorganised list 8*/
+ a, /* link */
+ h2 {
+    color:rgb(255, 255, 255)
+ }
+
+ h2 { 
+    margin: 0 0 -20px 0
+    
+ }
+
+ h1 { 
+      color: firebrick;
+      font-size: 60px;
+      text-align: center;
+      margin: -50px 0 50px 0 
+ }
+
+ p,
+ li,
+ a  {
+     font-size: 16px;
+     line-height: 2;
+     letter-spacing: 1px;
+ }
+
+ html { 
+     font-size: 30px;
+     font-family: Osake;
+
+ }
+ 
+@font-face {
+    font-family: Osake;
+    src: url(/home/phoxlaroc/Desktop/my-webpage/osake-font/Osake-x3oqj.otf)
+ }
+
+ button { 
+       font-size: 30px;
+ }
